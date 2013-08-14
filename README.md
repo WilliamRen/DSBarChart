@@ -66,7 +66,7 @@ If you are using DSBarChart, please feel free to edit this list.
 # Credits
 
 1. [DhilipSiva](https://github.com/dhilipsiva)
-2, [Randall Li](https://github.com/randallli)
+2. [Randall Li](https://github.com/randallli)
 
 # Support
 
