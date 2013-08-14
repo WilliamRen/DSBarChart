@@ -1,9 +1,9 @@
-```                                                                                   
-______  ___________            _____ _                _   
-|  _  \/  ___| ___ \          /  __ \ |              | |  
-| | | |\ `--.| |_/ / __ _ _ __| /  \/ |__   __ _ _ __| |_ 
+```
+______  ___________            _____ _                _
+|  _  \/  ___| ___ \          /  __ \ |              | |
+| | | |\ `--.| |_/ / __ _ _ __| /  \/ |__   __ _ _ __| |_
 | | | | `--. \ ___ \/ _` | '__| |   | '_ \ / _` | '__| __|
-| |/ / /\__/ / |_/ / (_| | |  | \__/\ | | | (_| | |  | |_ 
+| |/ / /\__/ / |_/ / (_| | |  | \__/\ | | | (_| | |  | |_
 |___/  \____/\____/ \__,_|_|   \____/_| |_|\__,_|_|   \__|
 ```
 
@@ -56,7 +56,7 @@ chrt.bounds = ChartView.bounds;
 
 <img src="https://raw.github.com/dhilipsiva/DSBarChart/master/DSBarChart.png"
  alt="DSBarChart" title="A simple objective-c Bar Chart / Histogram library." align="canter"/>
-  
+
 # Who is using DSBarChart
 
 1. [ReWire](http://www.rewireapp.com/)
@@ -66,6 +66,7 @@ If you are using DSBarChart, please feel free to edit this list.
 # Credits
 
 1. [DhilipSiva](https://github.com/dhilipsiva)
+2, [Randall Li](https://github.com/randallli)
 
 # Support
 
